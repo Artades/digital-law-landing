@@ -7,11 +7,11 @@ const inter = Inter({ subsets: ['latin'] })
 export const metadata: Metadata = {
 	title: "Digital Law | Documentation",
 	description:
-		"Digital Law #36: Electronic information resources containing personal data",
+		"Electronic information resources containing personal data",
 	icons: {
 		icon: "/favicon.ico",
 	},
-	metadataBase: new URL("https://diglaw.vercel.app", "http://localhost:3000"),
+	metadataBase: new URL("https://diglaw-phi.vercel.app"),
 	alternates: {
 		canonical: "/",
 		languages: {
@@ -20,7 +20,7 @@ export const metadata: Metadata = {
 		},
 	},
 	openGraph: {
-		url: "https://diglaw.vercel.app",
+		url: "https://diglaw-phi.vercel.app",
 		siteName: "Digital Law",
 		images: [
 			{
