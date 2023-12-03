@@ -38,7 +38,7 @@ export default function Home() {
 										strings: [
 											// "Privacy Conscious",
 											// "Digitally Empowered",
-											"Cyber Savvy",
+											"Cyber Savelyev",
 											"Tech-Wise",
 											"Info-Adept",
 										],
